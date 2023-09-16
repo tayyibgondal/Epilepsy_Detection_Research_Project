@@ -1,0 +1,28 @@
+Step 0: Train Loss 0.7015, Val Loss 0.7003
+Loss: 0.7003
+C0_precision: 1.0000
+C0_recall: 0.1406
+C0_f1_score: 0.2466
+C1_precision: 0.0000
+C1_recall: 0.0000
+C1_f1_score: 0.0000
+
+
+
+Step 0: Train Loss 0.7015, Val Loss 0.7010
+Loss: 0.7010
+C0_precision: 1.0000
+C0_recall: 0.0625
+C0_f1_score: 0.1176
+C1_precision: 0.0000
+C1_recall: 0.0000
+C1_f1_score: 0.0000
+
+Step 3: Train Loss 0.0000, Val Loss 0.0000
+Loss: 0.0000
+C0_precision: 1.0000
+C0_recall: 1.0000
+C0_f1_score: 1.0000
+C1_precision: 0.0000
+C1_recall: 0.0000
+C1_f1_score: 0.0000
